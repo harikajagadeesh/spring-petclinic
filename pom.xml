@@ -334,6 +334,7 @@
                     <compilerArguments>
                         <Xlint/>
                     </compilerArguments>
+                    <compilerVersion>1.5</compilerVersion>
                     <verbose>true</verbose>
                     <source>${java.version}</source>
                     <target>${java.version}</target>
