@@ -125,7 +125,7 @@
         <dependency>
             <groupId>com.jayway.jsonpath</groupId>
             <artifactId>json-path</artifactId>
-           <!-- <scope>test</scope> >
+           <!-- <scope>test</scope> -->
         </dependency>
         <!-- SPRING, SPRING, SPRINGITY SPRING -->
         <dependency>
