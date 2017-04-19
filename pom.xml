@@ -335,10 +335,10 @@
                     <compilerArguments>
                         <Xlint/>
                     </compilerArguments>
-                    <compilerVersion>1.5</compilerVersion>
+                    <compilerVersion>${java.version}</compilerVersion>
                     <verbose>true</verbose>
-                    <source>1.5</source>
-                    <target>1.5</target>
+                    <source>${java.version}</source>
+                    <target>${java.version}</target>
                     <showWarnings>true</showWarnings>
                 </configuration>
             </plugin>
